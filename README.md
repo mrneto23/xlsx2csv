@@ -1,2 +1,5 @@
 # xlsx2csv
-Convert xlsx to csv in Python
+
+Python script that converts xlsx to csv.
+
+Convert one file or all files in a directory.
